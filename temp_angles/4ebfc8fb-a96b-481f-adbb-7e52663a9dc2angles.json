@@ -1,0 +1,2342 @@
+[
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1322895148362324,
+      "Elbow pitch": 0.8730840563296316
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5539943569658117,
+      "Elbow pitch": 1.6327509230944661
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1280454070513897,
+      "Elbow pitch": 0.8692967342677479
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5587471279685479,
+      "Elbow pitch": 1.6279551358627524
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1263758802845283,
+      "Elbow pitch": 0.8688160896397932
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5659951778517766,
+      "Elbow pitch": 1.625158556051484
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1251198627203842,
+      "Elbow pitch": 0.8682559091579193
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5717129267069612,
+      "Elbow pitch": 1.6215941240613996
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.124704255323548,
+      "Elbow pitch": 0.8675895521798855
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5806530668051995,
+      "Elbow pitch": 1.6163771610993234
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.124639181566527,
+      "Elbow pitch": 0.8672765412024235
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5855334492299873,
+      "Elbow pitch": 1.6120745129768608
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.124456363987514,
+      "Elbow pitch": 0.8666328120005841
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5876797974739184,
+      "Elbow pitch": 1.6103011814068884
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.123947227915515,
+      "Elbow pitch": 0.8662472622160285
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5903311182637373,
+      "Elbow pitch": 1.609715716552591
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1233793320512007,
+      "Elbow pitch": 0.8654650842336924
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5937371173354445,
+      "Elbow pitch": 1.6093371555718683
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.122363569513349,
+      "Elbow pitch": 0.8646853380908988
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5979041119021428,
+      "Elbow pitch": 1.6093984453265973
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.121427113731829,
+      "Elbow pitch": 0.8640123860496387
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6000611831679795,
+      "Elbow pitch": 1.6095627942990742
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1200892818796935,
+      "Elbow pitch": 0.8632909908104812
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6035643146011277,
+      "Elbow pitch": 1.610388502211314
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1185838542891173,
+      "Elbow pitch": 0.8619886895652433
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6087463836876282,
+      "Elbow pitch": 1.6125587851588703
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1172680756834246,
+      "Elbow pitch": 0.8603800106960161
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6151711242952881,
+      "Elbow pitch": 1.613324848065743
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.116855717351256,
+      "Elbow pitch": 0.8599666626829793
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6218418436738893,
+      "Elbow pitch": 1.6123639155170777
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.116243911674421,
+      "Elbow pitch": 0.8594230381008922
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6256602637880129,
+      "Elbow pitch": 1.6132766413782733
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1154905867582987,
+      "Elbow pitch": 0.8586456235918507
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6296055583211532,
+      "Elbow pitch": 1.6127769219365147
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1143781764447485,
+      "Elbow pitch": 0.8568178445390602
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6319120549364317,
+      "Elbow pitch": 1.6136872432935003
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.113601639617605,
+      "Elbow pitch": 0.8558699408704663
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6336638440497219,
+      "Elbow pitch": 1.613481207496899
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.113683317643338,
+      "Elbow pitch": 0.856595281966639
+    },
+    "left_arm": {
+      "Shoulder roll": 0.634421150147216,
+      "Elbow pitch": 1.6133321071786355
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1133550206982563,
+      "Elbow pitch": 0.8561925711841987
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6343299000499801,
+      "Elbow pitch": 1.6137355141190304
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1133147295665187,
+      "Elbow pitch": 0.8557701539709752
+    },
+    "left_arm": {
+      "Shoulder roll": 0.634212330261786,
+      "Elbow pitch": 1.6140150148232089
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1126906731412096,
+      "Elbow pitch": 0.8544548757653032
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6336653909137634,
+      "Elbow pitch": 1.614477797368204
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.112175609425275,
+      "Elbow pitch": 0.851210994837887
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6336760462399136,
+      "Elbow pitch": 1.6149734932645332
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.111714298156715,
+      "Elbow pitch": 0.84910257648578
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6339866751975168,
+      "Elbow pitch": 1.6164047215735753
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1114534018341615,
+      "Elbow pitch": 0.84925134036457
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6348398746942889,
+      "Elbow pitch": 1.6186327903009725
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1110463310670746,
+      "Elbow pitch": 0.8491829131509059
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6349976620082396,
+      "Elbow pitch": 1.6210128424223096
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1090148784983773,
+      "Elbow pitch": 0.8478161892918219
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6353685866484138,
+      "Elbow pitch": 1.630181721923598
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.107410631078445,
+      "Elbow pitch": 0.8469993669228756
+    },
+    "left_arm": {
+      "Shoulder roll": 0.635350271459615,
+      "Elbow pitch": 1.6359747384710972
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.105817416984026,
+      "Elbow pitch": 0.8464248262333076
+    },
+    "left_arm": {
+      "Shoulder roll": 0.635466670722372,
+      "Elbow pitch": 1.6397085497113324
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1046933113321376,
+      "Elbow pitch": 0.8454462624949745
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6345879873130609,
+      "Elbow pitch": 1.6417157930217194
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1035881725600007,
+      "Elbow pitch": 0.8450026403183238
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6342205213413706,
+      "Elbow pitch": 1.642442172793171
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1031661701512863,
+      "Elbow pitch": 0.8448253413094388
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6348099432321163,
+      "Elbow pitch": 1.6414962817217744
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102090075810636,
+      "Elbow pitch": 0.8451396510574469
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6341215321078866,
+      "Elbow pitch": 1.641139465053035
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1012771382379154,
+      "Elbow pitch": 0.8460040599991492
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6325408697809244,
+      "Elbow pitch": 1.640644312772196
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1007057104748776,
+      "Elbow pitch": 0.8467086874330405
+    },
+    "left_arm": {
+      "Shoulder roll": 0.631418569089352,
+      "Elbow pitch": 1.63887650507184
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.100341928812351,
+      "Elbow pitch": 0.8471728687685145
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6307697627371192,
+      "Elbow pitch": 1.637889530573666
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1001078992197595,
+      "Elbow pitch": 0.8474914461977793
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6303974155906431,
+      "Elbow pitch": 1.6369383739641492
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.100109330523014,
+      "Elbow pitch": 0.8479195588805678
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6301845743156378,
+      "Elbow pitch": 1.636687129218318
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1001938130533535,
+      "Elbow pitch": 0.8480596644573074
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6296024848280014,
+      "Elbow pitch": 1.6356039945324417
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.100171564677745,
+      "Elbow pitch": 0.8482590943223831
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6289685216369344,
+      "Elbow pitch": 1.6347969170461598
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1000305599598668,
+      "Elbow pitch": 0.8481141551144359
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6285736381437671,
+      "Elbow pitch": 1.6331365309535608
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1009551013624086,
+      "Elbow pitch": 0.848604175328253
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6284555127193634,
+      "Elbow pitch": 1.631238239183415
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1010745749188056,
+      "Elbow pitch": 0.848286122029767
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6287897482191519,
+      "Elbow pitch": 1.6278288961569116
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.101114628283091,
+      "Elbow pitch": 0.8480759807703196
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6288485667241284,
+      "Elbow pitch": 1.6231838442033408
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1013136798671117,
+      "Elbow pitch": 0.8480565623026921
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6292345391180215,
+      "Elbow pitch": 1.6189867529120305
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.101422459321697,
+      "Elbow pitch": 0.8480307781953785
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6294084623665666,
+      "Elbow pitch": 1.614441588696027
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1014680337719684,
+      "Elbow pitch": 0.8480577586529835
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6294137094127802,
+      "Elbow pitch": 1.6108988092111187
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1016473209066797,
+      "Elbow pitch": 0.8482415484221024
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6292340207870281,
+      "Elbow pitch": 1.6083712098362846
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1018737298302397,
+      "Elbow pitch": 0.8484898796929805
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6291971925425544,
+      "Elbow pitch": 1.6060302634434525
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1020972868667487,
+      "Elbow pitch": 0.8487027295268472
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6287267779940671,
+      "Elbow pitch": 1.6046632216079961
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102288453327121,
+      "Elbow pitch": 0.8488779377994817
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6279896809826322,
+      "Elbow pitch": 1.6027675619195958
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1023277917867405,
+      "Elbow pitch": 0.8489256354968188
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6273605314470574,
+      "Elbow pitch": 1.6011665518004703
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102484138414883,
+      "Elbow pitch": 0.8491032732933558
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6269650771208033,
+      "Elbow pitch": 1.6004986724114105
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102492889186626,
+      "Elbow pitch": 0.8491556163008737
+    },
+    "left_arm": {
+      "Shoulder roll": 0.626779371638115,
+      "Elbow pitch": 1.599928801384603
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.10246429672668,
+      "Elbow pitch": 0.8491829664086946
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6265319998132381,
+      "Elbow pitch": 1.5997089387461758
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102417380904735,
+      "Elbow pitch": 0.8491999322897181
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6263008621426553,
+      "Elbow pitch": 1.5997165843650067
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102485024160437,
+      "Elbow pitch": 0.8491895225241815
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6261464878136188,
+      "Elbow pitch": 1.5997250714032447
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1024659142481577,
+      "Elbow pitch": 0.8489460168871004
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6258696586851049,
+      "Elbow pitch": 1.5999866712438011
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102497563382134,
+      "Elbow pitch": 0.8490847037194021
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6254890458644677,
+      "Elbow pitch": 1.600031192644189
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.10250146981234,
+      "Elbow pitch": 0.8490605645569953
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6247505974701852,
+      "Elbow pitch": 1.6004473845985063
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102525034709293,
+      "Elbow pitch": 0.849141390000832
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6236513822070558,
+      "Elbow pitch": 1.6013039684405723
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.102544673584148,
+      "Elbow pitch": 0.8491562066619132
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6226163985173658,
+      "Elbow pitch": 1.6021399831161955
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1029623432506903,
+      "Elbow pitch": 0.8499029743025598
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6200196302328279,
+      "Elbow pitch": 1.6022893925737283
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1040924747994474,
+      "Elbow pitch": 0.8512894025741244
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6169699394004795,
+      "Elbow pitch": 1.6020271432309945
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.105806744840266,
+      "Elbow pitch": 0.8529584599875903
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6117862175812087,
+      "Elbow pitch": 1.6008331454074587
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1074195676299445,
+      "Elbow pitch": 0.8552365363456043
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6027620159754322,
+      "Elbow pitch": 1.6017593327044306
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.108514079128815,
+      "Elbow pitch": 0.856514758835555
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5957766386302933,
+      "Elbow pitch": 1.604622522731387
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.110067766045677,
+      "Elbow pitch": 0.857928854764016
+    },
+    "left_arm": {
+      "Shoulder roll": 0.59162574025337,
+      "Elbow pitch": 1.6083453253258209
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1115148641714834,
+      "Elbow pitch": 0.8590588882529028
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5753248782652528,
+      "Elbow pitch": 1.618297665654129
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1145382384443376,
+      "Elbow pitch": 0.860638149072306
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5637965126411886,
+      "Elbow pitch": 1.6285766536408475
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.119434753102514,
+      "Elbow pitch": 0.8634434394381014
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5470797864654446,
+      "Elbow pitch": 1.6371679530524006
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.125183145572964,
+      "Elbow pitch": 0.8681905162845905
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5354004091547141,
+      "Elbow pitch": 1.6478038523449259
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.133214563669036,
+      "Elbow pitch": 0.8739114739535149
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5274140802549897,
+      "Elbow pitch": 1.654781972559276
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.140219937116484,
+      "Elbow pitch": 0.881361822910065
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5248851787697213,
+      "Elbow pitch": 1.6609742353635781
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1466898045218934,
+      "Elbow pitch": 0.8864921721550699
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5199842935204738,
+      "Elbow pitch": 1.657466754468775
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.148313031150661,
+      "Elbow pitch": 0.8877480948716818
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5162991148018723,
+      "Elbow pitch": 1.6673348672480752
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.149337144508955,
+      "Elbow pitch": 0.8881792519842221
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5186503814965786,
+      "Elbow pitch": 1.6660023777651864
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.152131593450973,
+      "Elbow pitch": 0.8892130318640675
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5246902313017626,
+      "Elbow pitch": 1.6573284173178224
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.158449991711671,
+      "Elbow pitch": 0.8911832799325994
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5376073809048393,
+      "Elbow pitch": 1.620383727544105
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1643311309805378,
+      "Elbow pitch": 0.9001304013862256
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5994985455647632,
+      "Elbow pitch": 1.557182870406524
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1669681670478282,
+      "Elbow pitch": 0.9170448154635419
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6655014924956799,
+      "Elbow pitch": 1.4676595979409313
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.1736786457475783,
+      "Elbow pitch": 0.9393761622592715
+    },
+    "left_arm": {
+      "Shoulder roll": 0.685599034303141,
+      "Elbow pitch": 1.4211673178569737
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.188862630420659,
+      "Elbow pitch": 0.9797748554151902
+    },
+    "left_arm": {
+      "Shoulder roll": 0.734393176676307,
+      "Elbow pitch": 1.3346682372962837
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.2119268773516483,
+      "Elbow pitch": 1.0096375352410505
+    },
+    "left_arm": {
+      "Shoulder roll": 0.7420039467896457,
+      "Elbow pitch": 1.2778200326780682
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.2470283475992923,
+      "Elbow pitch": 1.0561067868787541
+    },
+    "left_arm": {
+      "Shoulder roll": 0.7972493580631639,
+      "Elbow pitch": 1.1505116228354757
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.26257308392791,
+      "Elbow pitch": 1.083237813063296
+    },
+    "left_arm": {
+      "Shoulder roll": 0.7816265978379787,
+      "Elbow pitch": 1.1215766256247441
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.2998653624198533,
+      "Elbow pitch": 1.126089613876645
+    },
+    "left_arm": {
+      "Shoulder roll": 0.7424130573036154,
+      "Elbow pitch": 1.1174391737072296
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.359005465143133,
+      "Elbow pitch": 1.1654286257713649
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6681138516470612,
+      "Elbow pitch": 1.1133753039267975
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.4045643792196456,
+      "Elbow pitch": 1.212019175198655
+    },
+    "left_arm": {
+      "Shoulder roll": 0.3963587005805227,
+      "Elbow pitch": 1.3173710955882152
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.476745868660675,
+      "Elbow pitch": 1.2966546974872089
+    },
+    "left_arm": {
+      "Shoulder roll": 0.10418505317664607,
+      "Elbow pitch": 1.6039488880392894
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.565304919886151,
+      "Elbow pitch": 1.394964042623187
+    },
+    "left_arm": {
+      "Shoulder roll": -0.2029666681549743,
+      "Elbow pitch": 1.9327445170845257
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.731350248920139,
+      "Elbow pitch": 1.5915454791489407
+    },
+    "left_arm": {
+      "Shoulder roll": -0.42996326702573784,
+      "Elbow pitch": 2.311527216407595
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -2.9286458479925157,
+      "Elbow pitch": 1.9633909450968985
+    },
+    "left_arm": {
+      "Shoulder roll": -0.6097549899358691,
+      "Elbow pitch": 0.03149181218401547
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": -3.0503342910873816,
+      "Elbow pitch": 2.6802137659490413
+    },
+    "left_arm": {
+      "Shoulder roll": -0.8448340127956486,
+      "Elbow pitch": -0.5400815345583733
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 3.0709331276688214,
+      "Elbow pitch": -2.9059561307064716
+    },
+    "left_arm": {
+      "Shoulder roll": -0.961369752938039,
+      "Elbow pitch": -0.526649527523889
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.9096793248047175,
+      "Elbow pitch": -2.1444855298386134
+    },
+    "left_arm": {
+      "Shoulder roll": -1.0974248155092023,
+      "Elbow pitch": -0.3946942486334886
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.7345658594622844,
+      "Elbow pitch": -1.664317532018086
+    },
+    "left_arm": {
+      "Shoulder roll": -1.1922498449545225,
+      "Elbow pitch": -0.2749949223778833
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5412610281177725,
+      "Elbow pitch": -1.395149326275043
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2700759938377297,
+      "Elbow pitch": -0.1758232661504289
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4028545823524206,
+      "Elbow pitch": -1.2830449345163186
+    },
+    "left_arm": {
+      "Shoulder roll": -1.338046477513382,
+      "Elbow pitch": -0.10410770678988227
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.2878226155093184,
+      "Elbow pitch": -1.2503517317318795
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3808465601451485,
+      "Elbow pitch": -0.08269142640924325
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.199238475469814,
+      "Elbow pitch": -1.1420281019555196
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3919907408084864,
+      "Elbow pitch": -0.10775138257386288
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1232451086880055,
+      "Elbow pitch": -1.0603981727978191
+    },
+    "left_arm": {
+      "Shoulder roll": -1.391376349731025,
+      "Elbow pitch": -0.12888292916342012
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0853506626436125,
+      "Elbow pitch": -1.0307364315666732
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3911495797435935,
+      "Elbow pitch": -0.14744548533233506
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.062443027878739,
+      "Elbow pitch": -1.0088472144398575
+    },
+    "left_arm": {
+      "Shoulder roll": -1.382908526687123,
+      "Elbow pitch": -0.18049493115180282
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0454261520838948,
+      "Elbow pitch": -1.0271757705713467
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3693812493583828,
+      "Elbow pitch": -0.22093826875113085
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0261654352527083,
+      "Elbow pitch": -1.0921632606631826
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3572778284780953,
+      "Elbow pitch": -0.26708307074643944
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.026942234583873,
+      "Elbow pitch": -1.1206642145651484
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3516172375299946,
+      "Elbow pitch": -0.2930541808677701
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0263243305452594,
+      "Elbow pitch": -1.1643522399463861
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3480083731666024,
+      "Elbow pitch": -0.3054974811237827
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0333801925854296,
+      "Elbow pitch": -1.2056012810038839
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3281331694467748,
+      "Elbow pitch": -0.34954075823343905
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0429979300975143,
+      "Elbow pitch": -1.2148966615573418
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3158604693068403,
+      "Elbow pitch": -0.37755685977315445
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0495746786846034,
+      "Elbow pitch": -1.2100104054060565
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3103215862559516,
+      "Elbow pitch": -0.39352845291565647
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0607594143905983,
+      "Elbow pitch": -1.2678608555964508
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3062563772408189,
+      "Elbow pitch": -0.40183021484991827
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0872514884917073,
+      "Elbow pitch": -1.2724140654278078
+    },
+    "left_arm": {
+      "Shoulder roll": -1.3039967585046712,
+      "Elbow pitch": -0.4083405337126713
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.12844683708302,
+      "Elbow pitch": -1.3192609746006907
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2988570966025688,
+      "Elbow pitch": -0.41416980228378525
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.160954973305419,
+      "Elbow pitch": -1.3047735428791203
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2951469711712165,
+      "Elbow pitch": -0.422269017734963
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1846204524947956,
+      "Elbow pitch": -1.3215825396987295
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2917618461870521,
+      "Elbow pitch": -0.42689279054751966
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.226906584929419,
+      "Elbow pitch": -1.3419351896743008
+    },
+    "left_arm": {
+      "Shoulder roll": -1.287686576285824,
+      "Elbow pitch": -0.4332470500043416
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.256700592855829,
+      "Elbow pitch": -1.3540178323700807
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2814251509552577,
+      "Elbow pitch": -0.4430023199215073
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.2867209493921132,
+      "Elbow pitch": -1.3586478352998554
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2750553925243817,
+      "Elbow pitch": -0.45422182477133033
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3161580869990095,
+      "Elbow pitch": -1.3718815577520491
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2698546080534698,
+      "Elbow pitch": -0.46683493775050716
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3290808788164856,
+      "Elbow pitch": -1.400038213012274
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2632356626200079,
+      "Elbow pitch": -0.4789148424694916
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.349816593263825,
+      "Elbow pitch": -1.4180496784362215
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2598634847068173,
+      "Elbow pitch": -0.48498086884884106
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3636785804278984,
+      "Elbow pitch": -1.4160582415966676
+    },
+    "left_arm": {
+      "Shoulder roll": -1.25493005148837,
+      "Elbow pitch": -0.4917137664925143
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3726726979525075,
+      "Elbow pitch": -1.4214963190271142
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2515375945129588,
+      "Elbow pitch": -0.49628780715870835
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3978017945076,
+      "Elbow pitch": -1.427400928683728
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2461735635856874,
+      "Elbow pitch": -0.5064487401285414
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.431978107412875,
+      "Elbow pitch": -1.446900828556326
+    },
+    "left_arm": {
+      "Shoulder roll": -1.241101721360814,
+      "Elbow pitch": -0.5170271695720454
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4477434097831816,
+      "Elbow pitch": -1.4644344026167824
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2392058356984834,
+      "Elbow pitch": -0.5226966805728308
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.455319085842743,
+      "Elbow pitch": -1.4920417205930243
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2389792875395542,
+      "Elbow pitch": -0.5259911896416962
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4740968634114795,
+      "Elbow pitch": -1.4981295536020847
+    },
+    "left_arm": {
+      "Shoulder roll": -1.238869919703081,
+      "Elbow pitch": -0.5280343579819495
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.49415331181628,
+      "Elbow pitch": -1.5205119699906735
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2387358379584203,
+      "Elbow pitch": -0.5298700595127721
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5142661991115633,
+      "Elbow pitch": -1.5315581041567576
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2387027953706107,
+      "Elbow pitch": -0.5309279883039641
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5352458617681184,
+      "Elbow pitch": -1.5560184573743658
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2380069663335531,
+      "Elbow pitch": -0.5328870247134541
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.550432993930409,
+      "Elbow pitch": -1.5659395799560136
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2370799931890482,
+      "Elbow pitch": -0.5346514084406878
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5565617163605303,
+      "Elbow pitch": -1.5630605175806513
+    },
+    "left_arm": {
+      "Shoulder roll": -1.236786062919103,
+      "Elbow pitch": -0.5350365542276012
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5597203909103796,
+      "Elbow pitch": -1.5679130583518075
+    },
+    "left_arm": {
+      "Shoulder roll": -1.236098113631221,
+      "Elbow pitch": -0.536218944730978
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.556546015792066,
+      "Elbow pitch": -1.5649526302372745
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2357157835770738,
+      "Elbow pitch": -0.5370586109524472
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5558712795677594,
+      "Elbow pitch": -1.5643676014483547
+    },
+    "left_arm": {
+      "Shoulder roll": -1.235280395500212,
+      "Elbow pitch": -0.5384530945124989
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5569251243518942,
+      "Elbow pitch": -1.573743728732052
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2346661557747283,
+      "Elbow pitch": -0.5403575690167987
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.552918759825123,
+      "Elbow pitch": -1.573827081913573
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2342012765765538,
+      "Elbow pitch": -0.5415691048123559
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.551738138893892,
+      "Elbow pitch": -1.5738319861512144
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2338642378058071,
+      "Elbow pitch": -0.5428283044853822
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.546545561238243,
+      "Elbow pitch": -1.5677411945141517
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2336965533390372,
+      "Elbow pitch": -0.5439719509363521
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5352190995308255,
+      "Elbow pitch": -1.5612445315693098
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2338252910384122,
+      "Elbow pitch": -0.5448048278081928
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.520132957823263,
+      "Elbow pitch": -1.5634857312992163
+    },
+    "left_arm": {
+      "Shoulder roll": -1.234007162494606,
+      "Elbow pitch": -0.5451305139689904
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.506417567971583,
+      "Elbow pitch": -1.5619076723141125
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2342165993952563,
+      "Elbow pitch": -0.5455255256854328
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4948916688149434,
+      "Elbow pitch": -1.5617119016052763
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2343298845564836,
+      "Elbow pitch": -0.5458451575277781
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4883882010560425,
+      "Elbow pitch": -1.560680811778037
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2347027100360661,
+      "Elbow pitch": -0.5459022514272391
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4823443850486795,
+      "Elbow pitch": -1.5567426796909538
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2347661994223322,
+      "Elbow pitch": -0.5462531844122916
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.479551606290048,
+      "Elbow pitch": -1.5573816012207624
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2346766484794909,
+      "Elbow pitch": -0.5466489477479918
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4792717497640755,
+      "Elbow pitch": -1.5576858649615593
+    },
+    "left_arm": {
+      "Shoulder roll": -1.234279998484864,
+      "Elbow pitch": -0.5471839881687677
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.478958912232743,
+      "Elbow pitch": -1.5581266036767702
+    },
+    "left_arm": {
+      "Shoulder roll": -1.233989428041665,
+      "Elbow pitch": -0.5478438383526145
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.479200438235384,
+      "Elbow pitch": -1.5589018147012286
+    },
+    "left_arm": {
+      "Shoulder roll": -1.233786844223233,
+      "Elbow pitch": -0.5482527004916204
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.479321938313476,
+      "Elbow pitch": -1.5598003751197875
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2335647452995595,
+      "Elbow pitch": -0.5486852183773573
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.478351397641596,
+      "Elbow pitch": -1.5588407754894158
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2334850956355858,
+      "Elbow pitch": -0.5489670590428586
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4783928753796283,
+      "Elbow pitch": -1.559349264803564
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2331612745245109,
+      "Elbow pitch": -0.549875896250158
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4780371961739736,
+      "Elbow pitch": -1.5621276474546506
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2325695058600177,
+      "Elbow pitch": -0.5511546476145891
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.476821722535281,
+      "Elbow pitch": -1.5662344332136284
+    },
+    "left_arm": {
+      "Shoulder roll": -1.231966851396727,
+      "Elbow pitch": -0.5521449779017105
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.473188180454645,
+      "Elbow pitch": -1.5685732480318524
+    },
+    "left_arm": {
+      "Shoulder roll": -1.230839730388243,
+      "Elbow pitch": -0.5534836986860356
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.472510289236094,
+      "Elbow pitch": -1.5753401607156519
+    },
+    "left_arm": {
+      "Shoulder roll": -1.230066525180999,
+      "Elbow pitch": -0.5544006250920197
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.469953856042424,
+      "Elbow pitch": -1.5767872348917464
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2293028015110583,
+      "Elbow pitch": -0.5555752201587798
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4709916224787247,
+      "Elbow pitch": -1.5801404209660892
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2279585709598777,
+      "Elbow pitch": -0.557286452639956
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.467448094448497,
+      "Elbow pitch": -1.5824958877818522
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2272458808590347,
+      "Elbow pitch": -0.5578241822529785
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4648105134111087,
+      "Elbow pitch": -1.5862582283642068
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2264712720741442,
+      "Elbow pitch": -0.5583081660263239
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.462672020143663,
+      "Elbow pitch": -1.5879663916801292
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2261539315414138,
+      "Elbow pitch": -0.5586530307246355
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4620219853299017,
+      "Elbow pitch": -1.5885260891857012
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2259028262276126,
+      "Elbow pitch": -0.5592686008363363
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.460485900689505,
+      "Elbow pitch": -1.5895807578599874
+    },
+    "left_arm": {
+      "Shoulder roll": -1.225934167886681,
+      "Elbow pitch": -0.5594966751235843
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4597399768612593,
+      "Elbow pitch": -1.59126595940543
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2259991203177003,
+      "Elbow pitch": -0.5605759052816873
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4579703832807236,
+      "Elbow pitch": -1.591860248526519
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2270051729686218,
+      "Elbow pitch": -0.5600097168343179
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4562680765739406,
+      "Elbow pitch": -1.592695553506387
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2281753572732257,
+      "Elbow pitch": -0.5592328138008641
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.456112570218292,
+      "Elbow pitch": -1.5939571509846997
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2296567472241031,
+      "Elbow pitch": -0.5585744623439752
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4564055400474487,
+      "Elbow pitch": -1.5956076798548111
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2308402068394262,
+      "Elbow pitch": -0.5572957821329587
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4570326000772194,
+      "Elbow pitch": -1.597545971828312
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2320455034308766,
+      "Elbow pitch": -0.556598161829197
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.470708982033327,
+      "Elbow pitch": -1.6333789137424886
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2348426839785467,
+      "Elbow pitch": -0.5554937116662267
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4776021590479074,
+      "Elbow pitch": -1.6518438182535922
+    },
+    "left_arm": {
+      "Shoulder roll": -1.235669161160543,
+      "Elbow pitch": -0.5556274214226745
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4788295357188126,
+      "Elbow pitch": -1.6571731897087525
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2353656420872958,
+      "Elbow pitch": -0.5569473298157792
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4790565233572193,
+      "Elbow pitch": -1.6574722853197397
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2344011303064673,
+      "Elbow pitch": -0.5578330804805526
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.479644972311262,
+      "Elbow pitch": -1.6675087418075916
+    },
+    "left_arm": {
+      "Shoulder roll": -1.233467231339324,
+      "Elbow pitch": -0.5586784692623478
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4812723767122957,
+      "Elbow pitch": -1.6718647386787318
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2326510882595487,
+      "Elbow pitch": -0.5603326578951796
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.482126090102268,
+      "Elbow pitch": -1.6728304693969422
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2322290075478382,
+      "Elbow pitch": -0.560828881597992
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.483078234640898,
+      "Elbow pitch": -1.6749801816699745
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2321026600640328,
+      "Elbow pitch": -0.5609627460512027
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4838361099502846,
+      "Elbow pitch": -1.6750096281727744
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2318786170816245,
+      "Elbow pitch": -0.5611298656716942
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4854861726492468,
+      "Elbow pitch": -1.6798023219050306
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2316892485981306,
+      "Elbow pitch": -0.5613033192211698
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4870034493926854,
+      "Elbow pitch": -1.6822755725675533
+    },
+    "left_arm": {
+      "Shoulder roll": -1.231650671102982,
+      "Elbow pitch": -0.5614639374113354
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4874545885534443,
+      "Elbow pitch": -1.6818092818043344
+    },
+    "left_arm": {
+      "Shoulder roll": -1.231814359323259,
+      "Elbow pitch": -0.561259880320122
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4891071263254525,
+      "Elbow pitch": -1.68080617491886
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2320177468200801,
+      "Elbow pitch": -0.5612023643804518
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.492872118636698,
+      "Elbow pitch": -1.683221426610278
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2323050509174744,
+      "Elbow pitch": -0.5613183345456472
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4943754775847813,
+      "Elbow pitch": -1.6832362375760272
+    },
+    "left_arm": {
+      "Shoulder roll": -1.232428983527541,
+      "Elbow pitch": -0.5617343690547832
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4952803842609583,
+      "Elbow pitch": -1.681417412905825
+    },
+    "left_arm": {
+      "Shoulder roll": -1.232459553502673,
+      "Elbow pitch": -0.5619846845059733
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4954031935603416,
+      "Elbow pitch": -1.6789162432537033
+    },
+    "left_arm": {
+      "Shoulder roll": -1.232283534732408,
+      "Elbow pitch": -0.562387493571619
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4953386578184995,
+      "Elbow pitch": -1.6774892735436784
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2319065303770402,
+      "Elbow pitch": -0.5630048721672042
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.4952995143445276,
+      "Elbow pitch": -1.6760019431514228
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2319399610167003,
+      "Elbow pitch": -0.5631169533541386
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.493258704930035,
+      "Elbow pitch": -1.6677931924151914
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2321074276830706,
+      "Elbow pitch": -0.5630162131911647
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.493476013656464,
+      "Elbow pitch": -1.6575571660874828
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2321762294105996,
+      "Elbow pitch": -0.562951943053042
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.502794893979164,
+      "Elbow pitch": -1.6493452481454642
+    },
+    "left_arm": {
+      "Shoulder roll": -1.23194276454243,
+      "Elbow pitch": -0.5631721066102006
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5177882131770235,
+      "Elbow pitch": -1.6518183748776818
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2317045758957028,
+      "Elbow pitch": -0.5630598136535898
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.524215272121529,
+      "Elbow pitch": -1.6553424836870405
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2315464245563417,
+      "Elbow pitch": -0.563288772891423
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.529779667386291,
+      "Elbow pitch": -1.6573928880215887
+    },
+    "left_arm": {
+      "Shoulder roll": -1.231689337900516,
+      "Elbow pitch": -0.5632705123756003
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5345394892939117,
+      "Elbow pitch": -1.6669062979040092
+    },
+    "left_arm": {
+      "Shoulder roll": -1.231529751479419,
+      "Elbow pitch": -0.5632860844612871
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.5205105381838635,
+      "Elbow pitch": -1.627978631726083
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2321027061127663,
+      "Elbow pitch": -0.5617726712459592
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.501293605638095,
+      "Elbow pitch": -1.6126860741122653
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2312768151054254,
+      "Elbow pitch": -0.5627850053573563
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.451702350108763,
+      "Elbow pitch": -1.5344810256268038
+    },
+    "left_arm": {
+      "Shoulder roll": -1.2158802562797977,
+      "Elbow pitch": -0.5689821171708577
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.39544755065165,
+      "Elbow pitch": -1.423920983958092
+    },
+    "left_arm": {
+      "Shoulder roll": -1.1698260083968848,
+      "Elbow pitch": -0.5504503347815367
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.3239268306175522,
+      "Elbow pitch": -1.2550731236170092
+    },
+    "left_arm": {
+      "Shoulder roll": -1.1054024531651396,
+      "Elbow pitch": -0.5637138210382016
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.283408157390191,
+      "Elbow pitch": -1.193201704187538
+    },
+    "left_arm": {
+      "Shoulder roll": -0.9982539879298703,
+      "Elbow pitch": -0.6109072730036725
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.2528116331412273,
+      "Elbow pitch": -1.0595876913327624
+    },
+    "left_arm": {
+      "Shoulder roll": -0.8232510508182665,
+      "Elbow pitch": -0.6397808885715153
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.2144754302899767,
+      "Elbow pitch": -0.940111051690716
+    },
+    "left_arm": {
+      "Shoulder roll": -0.608455485277425,
+      "Elbow pitch": -0.6779426220113501
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1892577091466774,
+      "Elbow pitch": -0.8301635566172691
+    },
+    "left_arm": {
+      "Shoulder roll": -0.35242449702085443,
+      "Elbow pitch": -0.7354759788186899
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.2063169786323136,
+      "Elbow pitch": -0.8526278429827939
+    },
+    "left_arm": {
+      "Shoulder roll": -0.10740129266068134,
+      "Elbow pitch": -0.6401304726055814
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1925533229469365,
+      "Elbow pitch": -0.8452753855718542
+    },
+    "left_arm": {
+      "Shoulder roll": 0.11519744187461252,
+      "Elbow pitch": -0.4381137545202274
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.174770055254006,
+      "Elbow pitch": -0.8138812755794419
+    },
+    "left_arm": {
+      "Shoulder roll": 0.30357370022068075,
+      "Elbow pitch": 0.009730722561472567
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1668150223375613,
+      "Elbow pitch": -0.8015255001164091
+    },
+    "left_arm": {
+      "Shoulder roll": 0.38942757375099357,
+      "Elbow pitch": 0.3342966969286414
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1571218476709375,
+      "Elbow pitch": -0.7690670817597657
+    },
+    "left_arm": {
+      "Shoulder roll": 0.5381617038228337,
+      "Elbow pitch": 0.4895643795888431
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.147313594932746,
+      "Elbow pitch": -0.7453822713971484
+    },
+    "left_arm": {
+      "Shoulder roll": 0.6470155213692539,
+      "Elbow pitch": 0.5685403133510557
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.135007432058932,
+      "Elbow pitch": -0.7326618953256383
+    },
+    "left_arm": {
+      "Shoulder roll": 0.7356905921989837,
+      "Elbow pitch": 0.6292471035639992
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.1119242378912952,
+      "Elbow pitch": -0.7285377649108773
+    },
+    "left_arm": {
+      "Shoulder roll": 0.8004516698039216,
+      "Elbow pitch": 0.6822058493812887
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0653747484496106,
+      "Elbow pitch": -0.6919740347292164
+    },
+    "left_arm": {
+      "Shoulder roll": 0.9055391593942139,
+      "Elbow pitch": 0.6756087607510823
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 2.0035443657482985,
+      "Elbow pitch": -0.6466387119791356
+    },
+    "left_arm": {
+      "Shoulder roll": 0.9950337896013828,
+      "Elbow pitch": 0.663477603259563
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.9507241024979831,
+      "Elbow pitch": -0.6002052460957346
+    },
+    "left_arm": {
+      "Shoulder roll": 1.0581449021312304,
+      "Elbow pitch": 0.6266187567460894
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.9249366614084722,
+      "Elbow pitch": -0.6001470188833864
+    },
+    "left_arm": {
+      "Shoulder roll": 1.1346542235872201,
+      "Elbow pitch": 0.6039586382011011
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.9182432544869716,
+      "Elbow pitch": -0.5966000988980323
+    },
+    "left_arm": {
+      "Shoulder roll": 1.1763410400081618,
+      "Elbow pitch": 0.6110069857387994
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8899350553398444,
+      "Elbow pitch": -0.5728161880576835
+    },
+    "left_arm": {
+      "Shoulder roll": 1.2256792008764616,
+      "Elbow pitch": 0.5800605019186501
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8805026326851644,
+      "Elbow pitch": -0.5611019536499249
+    },
+    "left_arm": {
+      "Shoulder roll": 1.2516286064556392,
+      "Elbow pitch": 0.5926064662348031
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8634448072294931,
+      "Elbow pitch": -0.5798123766163317
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3161173110041793,
+      "Elbow pitch": 0.619652376354617
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8451384265638486,
+      "Elbow pitch": -0.5770769908217143
+    },
+    "left_arm": {
+      "Shoulder roll": 1.345025907224536,
+      "Elbow pitch": 0.6089932875165179
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8432461009036394,
+      "Elbow pitch": -0.5718077298312181
+    },
+    "left_arm": {
+      "Shoulder roll": 1.366396635495996,
+      "Elbow pitch": 0.5817427667960127
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8428942224692475,
+      "Elbow pitch": -0.5667851108113847
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3708483347708043,
+      "Elbow pitch": 0.6048411964008618
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8464963068810678,
+      "Elbow pitch": -0.5681053720276829
+    },
+    "left_arm": {
+      "Shoulder roll": 1.38111154727224,
+      "Elbow pitch": 0.6063493489899682
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.851580192777725,
+      "Elbow pitch": -0.5732229172490622
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3717343276259242,
+      "Elbow pitch": 0.5947735368911258
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8560122247007063,
+      "Elbow pitch": -0.5739451503127622
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3632108577751474,
+      "Elbow pitch": 0.6004212819140128
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8582513541395103,
+      "Elbow pitch": -0.5767147859780367
+    },
+    "left_arm": {
+      "Shoulder roll": 1.356042127944476,
+      "Elbow pitch": 0.5933441605519059
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.862766513244706,
+      "Elbow pitch": -0.5826495123456706
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3570627206282366,
+      "Elbow pitch": 0.5905426843316308
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8673343034134602,
+      "Elbow pitch": -0.5886120895948176
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3483539966714149,
+      "Elbow pitch": 0.5961435190048282
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8700560843043434,
+      "Elbow pitch": -0.5943038987507572
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3440472648363317,
+      "Elbow pitch": 0.6005652564767826
+    }
+  },
+  {
+    "right_arm": {
+      "Shoulder roll": 1.8723936085031012,
+      "Elbow pitch": -0.600137770573533
+    },
+    "left_arm": {
+      "Shoulder roll": 1.3323361189941205,
+      "Elbow pitch": 0.6220689955335629
+    }
+  }
+]

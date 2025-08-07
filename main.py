@@ -1,10 +1,12 @@
-from fastapi import FastAPI, Request, File, UploadFile, HTTPException, Form
-from fastapi.responses import JSONResponse
+from fastapi import FastAPI, Request, File, UploadFile, HTTPException, Form, Header
+from fastapi.responses import JSONResponse, FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 import uuid
 import threading
 from processing_service.video_to_json import video_to_pose
 from processing_service.pose_to_angles import angle_to_json
+from processing_service.video_cropping import cropping_video
+from processing_service.angles_to_videos import build_movie
 from database_app.requests_bd import add_video_data
 
 app = FastAPI()
@@ -47,6 +49,26 @@ async def upload_request(request: Request):
     return {"status": "success"}
 
 
+@app.get("/api/video1")
+async def send_video1(authorization: str = Header(...)):
+
+    return FileResponse(
+        path='cropping_videos/4ebfc8fb-a96b-481f-adbb-7e52663a9dc2.mp4',
+        media_type="video/mp4",
+        filename=f"video1.mp4"
+    )
+
+
+@app.get("/api/video2")
+async def send_video2(authorization: str = Header(...)):
+
+    return FileResponse(
+        path='temp_movie/4ebfc8fb-a96b-481f-adbb-7e52663a9dc2movie.mp4',
+        media_type="video/mp4",
+        filename=f"video2.mp4"
+    )
+
+
 @app.post("/upload")
 async def upload_video(video: UploadFile = File(...),
                        tg_id: str = File(...),
@@ -87,12 +109,18 @@ async def upload_video(video: UploadFile = File(...),
             f.write(content)
 
         print(f"Видео сохранено: {file_location}")
-        if tg_id != 'null':
-            thread = threading.Thread(
-                target=video_processing_request,
-                args=(unique_filename, file_extension, int(tg_id))
-            )
-            thread.start()
+        # if tg_id != 'null':
+        #     thread = threading.Thread(
+        #         target=video_processing_request,
+        #         args=(unique_filename, file_extension, int(tg_id), start_time, end_time)
+        #     )
+        #     thread.start()
+
+        thread = threading.Thread(
+            target=video_processing_request,
+            args=(unique_filename, file_extension, 123, start_time, end_time)
+        )
+        thread.start()
 
         return JSONResponse(content={
             "status": "success",
@@ -105,10 +133,15 @@ async def upload_video(video: UploadFile = File(...),
         raise HTTPException(status_code=500, detail=f"Ошибка загрузки: {str(e)}")
 
 
-def video_processing_request(video_name: str, extension: str, tg_id: int):
-    video_to_pose(video_name, extension)
-    angle_to_json(f"{video_name}pose.json", video_name)
-    video_data = {'video_path': f"uploaded_videos/{video_name}.{extension}",
-                  'pose_path': f"temp_poses/{video_name}pose.json",
-                  'angle_path': f"{video_name}angles.json", 'description': "description"}
-    add_video_data(video_data, tg_id)
+def video_processing_request(video_name: str, extension: str, tg_id: int, start_time: str, end_time: str):
+    if cropping_video(video_name, extension, start_time, end_time):
+        video_to_pose(video_name, extension)
+        angle_to_json(f"{video_name}pose.json", video_name)
+        build_movie(video_name, f"{video_name}angles.json")
+        video_data = {'video_path': f"cropping_videos/{video_name}.{extension}",
+                      'pose_path': f"temp_poses/{video_name}pose.json",
+                      'angle_path': f"{video_name}angles.json", 'description': "description"}
+        add_video_data(video_data, tg_id)
+
+
+

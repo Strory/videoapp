@@ -10,8 +10,7 @@ def video_to_pose(video_name: str, extension: str):
                         min_detection_confidence=0.5)
 
     # Открытие видео
-    cap = cv2.VideoCapture(f"uploaded_videos/{video_name}.{extension}")
-
+    cap = cv2.VideoCapture(f"cropping_videos/{video_name}.{extension}")
     # Получение метаинформации
     fps = cap.get(cv2.CAP_PROP_FPS)
     total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
